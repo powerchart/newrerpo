@@ -1,0 +1,8 @@
+﻿2018-01-29 12:12:19.462 +0530	START		Running Masterscript.script
+2018-01-29 12:12:19.702 +0530	Log		((allergy:"SomeAllergy", mrn:"12345rrrr", patientname:"Tim,Cook"),(allergy:"Fever", mrn:"324234223", patientname:"Onemore,patient"))	6	on_readsheet	Excel.script
+2018-01-29 12:12:19.727 +0530	Log		12345rrrr	12	on_readsheet	Excel.script
+2018-01-29 12:12:19.743 +0530	Log		Tim,Cook	13	on_readsheet	Excel.script
+2018-01-29 12:12:19.774 +0530	Log		324234223	12	on_readsheet	Excel.script
+2018-01-29 12:12:19.781 +0530	Log		Onemore,patient	13	on_readsheet	Excel.script
+2018-01-29 12:12:19.971 +0530	EndTestCase		(Duration:"0.504554", Errors:"0", Exceptions:"0", StartTime:"2018-01-29 12:12:19 +0530", Successes:"1", TestCase:"Masterscript.script", Warnings:"0")
+2018-01-29 12:12:20.024 +0530	SUCCESS		Execution Time 0:00:00 Masterscript.script

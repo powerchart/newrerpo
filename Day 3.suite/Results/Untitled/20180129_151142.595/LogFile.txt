@@ -1,0 +1,7 @@
+﻿2018-01-29 15:11:42.597 +0530	START		Running Untitled.script
+2018-01-29 15:11:42.989 +0530	imagelocation	Company	at (320, 248)	4	on_untitled	Untitled.script
+2018-01-29 15:11:43.011 +0530	Log		(320,248)	6	on_untitled	Untitled.script
+2018-01-29 15:11:43.178 +0530	readtext		(280,258,620,508)
+2018-01-29 15:11:43.183 +0530	Log		Alfreds Fulterkiste\nCentro comercial Moctezuma\nErnst Handel\nIsland Trading\nLaughing Bacchus Winecellars\nMagazzini Alimentari Riuniti	11	on_untitled	Untitled.script
+2018-01-29 15:11:43.327 +0530	EndTestCase		(Duration:"0.725981", Errors:"0", Exceptions:"0", StartTime:"2018-01-29 15:11:42 +0530", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2018-01-29 15:11:43.408 +0530	SUCCESS		Execution Time 0:00:00 Untitled.script

@@ -1,0 +1,6 @@
+﻿2018-01-29 12:06:10.003 +0530	START		Running Untitled.script
+2018-01-29 12:06:10.194 +0530	Log		((allergy:"SomeAllergy", mrn:"12345rrrr", @"patient name":"Tim,Cook"),(allergy:"Fever", mrn:"324234223", @"patient name":"Onemore,patient"))	4	on_untitled	Untitled.script
+2018-01-29 12:06:10.219 +0530	Log		12345rrrr	10	on_untitled	Untitled.script
+2018-01-29 12:06:10.243 +0530	Log		324234223	10	on_untitled	Untitled.script
+2018-01-29 12:06:10.403 +0530	EndTestCase		(Duration:"0.395408", Errors:"0", Exceptions:"0", StartTime:"2018-01-29 12:06:10 +0530", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2018-01-29 12:06:10.489 +0530	SUCCESS		Execution Time 0:00:00 Untitled.script

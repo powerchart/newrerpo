@@ -1,0 +1,16 @@
+﻿on readsheet domainname
+
+set mypatdata to table(domainname) of (type:"excel" , file :ResourcePath("VR1.xlsx"))
+
+put the records of mypatdata into patientinfo
+log patientinfo
+
+put the number of records of mypatdata into patientcount
+
+	
+	repeat with each item vijay of patientinfo
+		log vijay.MRN
+		log vijay.PatientName
+	end repeat
+	
+end readsheet

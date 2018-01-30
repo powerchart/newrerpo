@@ -1,0 +1,13 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-01-29 11:49:50.671 +0530,"Failure",0:00:00,1,0,0,"20180129_114950.671/LogFile.txt","","SenseTalk Compiler Exception -- in untitled:\nSyntax Error at line 1: Syntax Error - can't understand ""VR1"" at or near character 57",0
+2018-01-29 11:50:33.970 +0530,"Failure",0:00:00,1,0,0,"20180129_115033.970/LogFile.txt","","SenseTalk Compiler Exception -- in untitled:\nSyntax Error at line 1: Syntax Error - can't understand ""VR1"" at or near character 57",0
+2018-01-29 11:50:45.100 +0530,"Failure",0:00:00,1,0,0,"20180129_115045.100/LogFile.txt","","SenseTalk Compiler Exception -- in untitled:\nSyntax Error at line 1: Syntax Error - can't understand [end of line] at or near character 67",0
+2018-01-29 11:50:57.162 +0530,"Failure",0:00:00,1,0,0,"20180129_115057.162/LogFile.txt","","SenseTalk Compiler Exception -- in untitled:\nSyntax Error at line 1: Syntax Error - can't understand [end of line] at or near character 66",0
+2018-01-29 11:51:50.428 +0530,"Success",0:00:00,0,0,0,"20180129_115150.428/LogFile.txt","","",1
+2018-01-29 11:53:05.297 +0530,"Success",0:00:00,0,0,0,"20180129_115305.297/LogFile.txt","","",1
+2018-01-29 11:56:34.485 +0530,"Success",0:00:00,0,0,0,"20180129_115634.485/LogFile.txt","","",1
+2018-01-29 11:58:18.280 +0530,"Success",0:00:00,0,0,0,"20180129_115818.280/LogFile.txt","","",1
+2018-01-29 12:06:10.000 +0530,"Success",0:00:00,0,0,0,"20180129_120610.000/LogFile.txt","","",1
+2018-01-29 12:06:47.972 +0530,"Success",0:00:00,0,0,0,"20180129_120647.972/LogFile.txt","","",1
+2018-01-29 12:08:19.016 +0530,"Success",0:00:00,0,0,0,"20180129_120819.016/LogFile.txt","","",1
+2018-01-29 12:14:41.980 +0530,"Success",0:00:00,0,0,0,"20180129_121441.980/LogFile.txt","","",1

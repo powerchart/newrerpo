@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2018-01-29 11:49:50.671 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.008487</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180129_114950.671/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled:
+Syntax Error at line 1: Syntax Error - can&#x27;t understand &quot;VR1&quot; at or near character 57</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 11:50:33.970 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.008334</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180129_115033.970/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled:
+Syntax Error at line 1: Syntax Error - can&#x27;t understand &quot;VR1&quot; at or near character 57</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 11:50:45.100 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.008461</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180129_115045.100/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled:
+Syntax Error at line 1: Syntax Error - can&#x27;t understand [end of line] at or near character 67</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 11:50:57.162 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.007876</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180129_115057.162/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled:
+Syntax Error at line 1: Syntax Error - can&#x27;t understand [end of line] at or near character 66</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 11:51:50.428 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.347441</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180129_115150.428/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 11:53:05.297 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.407827</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180129_115305.297/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 11:56:34.485 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.386549</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180129_115634.485/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 11:58:18.280 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.371397</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180129_115818.280/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 12:06:10.000 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.401624</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180129_120610.000/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 12:06:47.972 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.436583</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180129_120647.972/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 12:08:19.016 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.417031</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180129_120819.016/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-29 12:14:41.980 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.007045</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180129_121441.980/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

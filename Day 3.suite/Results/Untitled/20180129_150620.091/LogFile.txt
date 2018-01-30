@@ -1,0 +1,5 @@
+﻿2018-01-29 15:06:20.094 +0530	START		Running Untitled.script
+2018-01-29 15:06:20.418 +0530	imagelocation	Company	at (320, 248)	4	on_untitled	Untitled.script
+2018-01-29 15:06:20.435 +0530	Log		(320,248)	6	on_untitled	Untitled.script
+2018-01-29 15:06:20.600 +0530	EndTestCase		(Duration:"0.500921", Errors:"1", Exceptions:"0", StartTime:"2018-01-29 15:06:20 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2018-01-29 15:06:20.962 +0530	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'readtext' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 Untitled.script

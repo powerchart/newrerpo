@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Excel">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2018-01-29 11:49:50 +0530</FirstRun>
+  <LastRun>2018-01-29 12:14:41 +0530</LastRun>
+  <TotalTimeOnSuccess>2.775497</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>35</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2018-01-29 14:50:06 +0530</FirstRun>
+  <LastRun>2018-01-29 15:59:16 +0530</LastRun>
+  <TotalTimeOnSuccess>24.398053</TotalTimeOnSuccess>
+ </script>
+ <script name="Masterscript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-01-29 12:11:28 +0530</FirstRun>
+  <LastRun>2018-01-29 12:15:08 +0530</LastRun>
+  <TotalTimeOnSuccess>0.992086</TotalTimeOnSuccess>
+ </script>
+</statistics>

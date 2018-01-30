@@ -1,0 +1,7 @@
+﻿2018-01-29 15:09:20.303 +0530	START		Running Untitled.script
+2018-01-29 15:09:20.468 +0530	imagelocation	Company	at (320, 248)	4	on_untitled	Untitled.script
+2018-01-29 15:09:20.491 +0530	Log		(320,248)	6	on_untitled	Untitled.script
+2018-01-29 15:09:20.751 +0530	readtext		(300,148,620,448)
+2018-01-29 15:09:20.755 +0530	Log		/1L Table Example\n>mpany\nFreds Futterkiste\n;ntro comercial Moctezuma\nnst Handel\nand Trading\nughing Bacchus Winecellars	11	on_untitled	Untitled.script
+2018-01-29 15:09:20.910 +0530	EndTestCase		(Duration:"0.601713", Errors:"0", Exceptions:"0", StartTime:"2018-01-29 15:09:20 +0530", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2018-01-29 15:09:20.972 +0530	SUCCESS		Execution Time 0:00:00 Untitled.script

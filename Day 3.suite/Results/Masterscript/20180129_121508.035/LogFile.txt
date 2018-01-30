@@ -1,0 +1,6 @@
+﻿2018-01-29 12:15:08.037 +0530	START		Running Masterscript.script
+2018-01-29 12:15:08.293 +0530	Log		((allergy:"DEPallarry", mrn:"aaaaaa", patientname:"DEPMpat"))	6	on_readsheet	Excel.script
+2018-01-29 12:15:08.318 +0530	Log		aaaaaa	12	on_readsheet	Excel.script
+2018-01-29 12:15:08.332 +0530	Log		DEPMpat	13	on_readsheet	Excel.script
+2018-01-29 12:15:08.517 +0530	EndTestCase		(Duration:"0.475046", Errors:"0", Exceptions:"0", StartTime:"2018-01-29 12:15:08 +0530", Successes:"1", TestCase:"Masterscript.script", Warnings:"0")
+2018-01-29 12:15:08.577 +0530	SUCCESS		Execution Time 0:00:00 Masterscript.script
