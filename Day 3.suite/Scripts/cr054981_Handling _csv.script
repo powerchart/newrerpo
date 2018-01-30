@@ -1,0 +1,13 @@
+﻿put file ResourcePath("Book1.csv") into var
+set itemDelimiter to ","
+log var
+
+put the number of lines of var into linecount
+log linecount
+
+set itemDelimiter to "  "
+Repeat linecount times
+	put line repeatIndex()+1 of var into temp
+	//log temp
+	log item 1 of temp
+End Repeat
